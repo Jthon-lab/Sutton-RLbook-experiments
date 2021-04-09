@@ -4,5 +4,5 @@ Random Policy,Greedy Policy, Epsilon-greedy Policy, Optimistic-greedy Policy, Up
 ![GrredyScore](GreedyScore.png)
 ![OptimisticGreedyAction](OptimisticGreedyOptimal.png)
 ![OptimisticGreedyScore](OptimisticGreedyScore.png)
-![UCBAction](UCBProp.png)
+![UCBAction](UCBprop.png)
 ![UCBScore](UCBScore.png)
