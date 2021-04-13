@@ -1,8 +1,6 @@
 # Multi-arm bandit 
 Random Policy,Greedy Policy, Epsilon-greedy Policy, Optimistic-greedy Policy, Upper-Confidence-Bound Policy
-![GreedyAction](GreedyOptimal.png)
-![GrredyScore](GreedyScore.png)
-![OptimisticGreedyAction](OptimisticGreedyOptimal.png)
-![OptimisticGreedyScore](OptimisticGreedyScore.png)
-![UCBAction](UCBprop.png)
-![UCBScore](UCBScore.png)
+![GreedyAction](./figures/GreedyBandit.png)
+![OptimisticGreedyAction](./figures/OptimisicGreedyBandit.png)
+![UCBAction](./figures/UcbBandit.png)
+
